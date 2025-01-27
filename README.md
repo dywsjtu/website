@@ -5,6 +5,6 @@
 
   # SysML-Princeton's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[sysml-princeton.github.io/website](https://sysml-princeton.github.io/website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
