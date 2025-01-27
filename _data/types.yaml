@@ -6,6 +6,18 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+assistant-professor:
+  icon: fa-solid fa-microscope
+  description: Assistant Professor
+
+associate-professor:
+  icon: fa-solid fa-microscope
+  description: Associate Professor
+
+professor:
+  icon: fa-solid fa-microscope
+  description: Professor
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
