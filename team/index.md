@@ -7,12 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-TODO: Add professors and students
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Faculty 
+{% include list.html data="members" component="portrait" filter="role == 'associate-professor' || role == 'assistant-professor'" %}
+
+## Students
+
+{% include list.html data="members" component="portrait" filter="role == 'masters' || role == 'phd'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

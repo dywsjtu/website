@@ -1,6 +1,6 @@
 ---
 name: Tianle Cai
-image: images/photos/tianle-cai.jpeg
+image: images/photos/tianle-cai.jpg
 role: phd
 # affiliation: University of Colorado
 # aliases:
