@@ -9,7 +9,7 @@ and secure. As a collaboration between both systems and machine learning
 researchers, our work considers all parts of the compute stack, spanning the
 design of AI/ML algorithms and pipelines to runtime systems for
 training/inference to intelligent applications of ML to tackle core systems
-challenges. We are a part of the broader AI^2 initiative in Princeton's AI Lab.
+challenges. We are a part of the broader [AI^2 initiative](https://invent.ai.princeton.edu/) in [Princeton's AI Lab](https://ai.princeton.edu/ai-lab).
 
 {% include section.html %}
 
