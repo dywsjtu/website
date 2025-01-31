@@ -37,6 +37,21 @@
   orcid: 0000-0002-2095-7024
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3539618.3591925
+  title: SIGIR 2023 Workshop on Retrieval Enhanced Machine Learning (REML @ SIGIR
+    2023)
+  authors:
+  - Michael Bendersky
+  - Danqi Chen
+  - Fernando Diaz
+  - Hamed Zamani
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/g83rz5
+  orcid: 0000-0001-5308-2634
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3694715.3695978
   title: Improving DNN Inference Throughput Using Practical, Per-Input Compute Adaptation
   authors:
@@ -76,6 +91,22 @@
   date: '2022-11-14'
   link: https://doi.org/g826ng
   orcid: 0000-0002-6973-3259
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3593856.3595901
+  title: Prefetching Using Principles of Hippocampal-Neocortical Interaction
+  authors:
+  - Michael Wu
+  - Ketaki Joshi
+  - Andrew Sheinberg
+  - Guilherme Cox
+  - Anurag Khandelwal
+  - Raghavendra Pradyumna Pothukuchi
+  - Abhishek Bhattacharjee
+  publisher: Proceedings of the 19th Workshop on Hot Topics in Operating Systems
+  date: '2023-06-22'
+  link: https://doi.org/g83rz6
+  orcid: 0009-0007-7575-3348
   plugin: orcid.py
   file: orcid.yaml
 - id: arxiv:2411.19379
