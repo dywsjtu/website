@@ -12,7 +12,7 @@
   publisher: Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles
   date: '2024-11-04'
   link: https://doi.org/g826nb
-  orcid: 0000-0002-6973-3259
+  orcid: 0000-0002-9291-2060
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -49,7 +49,7 @@
   publisher: Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles
   date: '2024-11-04'
   link: https://doi.org/g826nf
-  orcid: 0000-0002-6973-3259
+  orcid: 0000-0002-9291-2060
   plugin: orcid.py
   file: orcid.yaml
 - id: isbn:978-1-939133-33-5
@@ -76,6 +76,21 @@
   date: '2022-11-14'
   link: https://doi.org/g826ng
   orcid: 0000-0002-6973-3259
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3620678.3624651
+  title: 'Auxo Efficient Federated Learning via Scalable Client Clustering'
+  authors:
+  - Jiachen Liu
+  - Fan Lai
+  - Yinwei Dai
+  - Aditya Akella
+  - Harsha V. Madhyastha
+  - Mosharaf Chowdhury
+  publisher: Proceedings of the 2023 ACM Symposium on Cloud Computing
+  date: '2023-10-30'
+  link: https://doi.org/g83hr8
+  orcid: 0000-0002-9291-2060
   plugin: orcid.py
   file: orcid.yaml
 - id: arxiv:2411.19379
