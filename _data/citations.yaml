@@ -16,7 +16,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/thumbs/apparate.png
+  image: null
   buttons:
   - type: source
     text: GitHub
@@ -67,10 +67,6 @@
   orcid: 0000-0002-9291-2060
   plugin: orcid.py
   file: orcid.yaml
-  image: images/thumbs/e3.png
-  tags:
-  - large-language-models
-  - efficient-inference
 - id: isbn:978-1-939133-33-5
   title: 'Proceedings of the 20th USENIX Symposium on Networked System Design and
     Implementation (NSDI ''23): April 17-19, 2023, Boston, MA, USA'
