@@ -1,47 +1,77 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: LLM Serving
+  # subtitle: 
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: "Systems for low-latency and high-throughput LLM serving and emerging paradigms: compound AI systems, agentic workflows, inference-time scaling, etc."
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Novel Model Architectures
+  # subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: "Cross-stack optimizations and innovations for State Space Models (e.g., Mamba) and Attention-SSM Hybrid models."
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: ML for Systems
+  # subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+  description: "Machine learning for systems: caching, resource management, network protocol design, etc."
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Edge AI Systems
+  # subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  description: ""
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Accelerator Toolkit
+  # subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  description: "Expanding the accelerator toolkit for AI serving."
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
+
+# - title: Cool Tutorial
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
