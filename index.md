@@ -3,7 +3,13 @@
 
 # SysML-Princeton's Website
 
-An engaging 1-3 sentence description of your lab.
+SysML@Princeton is an interdisciplinary research group focused on developing
+next-generation AI/ML systems that are efficient, accurate, reliable, scalable,
+and secure. As a collaboration between both systems and machine learning
+researchers, our work considers all parts of the compute stack, spanning the
+design of AI/ML algorithms and pipelines to runtime systems for
+training/inference to intelligent applications of ML to tackle core systems
+challenges. We are a part of the broader [AI^2 initiative](https://invent.ai.princeton.edu/) in [Princeton's AI Lab](https://ai.princeton.edu/ai-lab).
 
 {% include section.html %}
 
@@ -11,7 +17,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out our publications!
 
 {%
   include button.html
@@ -34,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out the research topics that we work on!
 
 {%
   include button.html
@@ -59,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out our team!
 
 {%
   include button.html

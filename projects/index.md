@@ -7,10 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+An overview of the research directions that we work on.
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- {% include tags.html tags="publication, resource, website" %} -->
 
 {% include search-info.html %}
 
@@ -22,6 +21,19 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## More
+<!-- {%
+  include card.html
+  image="images/space.jpg"
+  link="https://nasa.gov/"
+  title="A Large Card"
+  subtitle="A cool card"
+  description="A cool description"
+  tooltip="A cool tooltip"
+  tags="tag A, tag B, tag C"
+  repo="greenelab/lab-website-template"
+  style="small"
+%} -->
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<!-- ## More -->
+
+<!-- {% include list.html component="card" data="projects" filter="!group" style="small" %} -->

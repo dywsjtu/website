@@ -16,7 +16,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: null
+  image: images/thumbs/apparate.png
   buttons:
   - type: source
     text: GitHub
@@ -37,6 +37,21 @@
   orcid: 0000-0002-2095-7024
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3539618.3591925
+  title: SIGIR 2023 Workshop on Retrieval Enhanced Machine Learning (REML @ SIGIR
+    2023)
+  authors:
+  - Michael Bendersky
+  - Danqi Chen
+  - Fernando Diaz
+  - Hamed Zamani
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/g83rz5
+  orcid: 0000-0001-5308-2634
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3694715.3695978
   title: Improving DNN Inference Throughput Using Practical, Per-Input Compute Adaptation
   authors:
@@ -52,6 +67,10 @@
   orcid: 0000-0002-9291-2060
   plugin: orcid.py
   file: orcid.yaml
+  image: images/thumbs/e3.png
+  tags:
+  - large-language-models
+  - efficient-inference
 - id: isbn:978-1-939133-33-5
   title: 'Proceedings of the 20th USENIX Symposium on Networked System Design and
     Implementation (NSDI ''23): April 17-19, 2023, Boston, MA, USA'
@@ -79,7 +98,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3620678.3624651
-  title: 'Auxo Efficient Federated Learning via Scalable Client Clustering'
+  title: Auxo
   authors:
   - Jiachen Liu
   - Fan Lai
@@ -91,6 +110,22 @@
   date: '2023-10-30'
   link: https://doi.org/g83hr8
   orcid: 0000-0002-9291-2060
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3593856.3595901
+  title: Prefetching Using Principles of Hippocampal-Neocortical Interaction
+  authors:
+  - Michael Wu
+  - Ketaki Joshi
+  - Andrew Sheinberg
+  - Guilherme Cox
+  - Anurag Khandelwal
+  - Raghavendra Pradyumna Pothukuchi
+  - Abhishek Bhattacharjee
+  publisher: Proceedings of the 19th Workshop on Hot Topics in Operating Systems
+  date: '2023-06-22'
+  link: https://doi.org/g83rz6
+  orcid: 0009-0007-7575-3348
   plugin: orcid.py
   file: orcid.yaml
 - id: arxiv:2411.19379

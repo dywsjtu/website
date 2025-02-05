@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: rnetravali@cs.princeton.edu
-  orcid: 0000-0001-7002-5033
-  google-scholar: 4C9naMgAAAAJ
+  # email: rnetravali@cs.princeton.edu
+  # orcid: 0000-0001-7002-5033
+  # google-scholar: 4C9naMgAAAAJ
   github: SysML-Princeton
-  twitter: SysML-Princeton
-  youtube: SysML-Princeton
+  # twitter: SysML-Princeton
+  # youtube: SysML-Princeton
 
 ### jekyll settings
 
